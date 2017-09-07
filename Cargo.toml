@@ -1,0 +1,10 @@
+[package]
+name = "ice_beam"
+version = "0.0.1"
+authors = ["Scott Harper <orcein@gmail.com>"]
+
+[dependencies]
+
+gfx = "0.16"
+glutin = "*"
+gfx_window_glutin = "*"
